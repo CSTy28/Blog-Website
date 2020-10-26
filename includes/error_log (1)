@@ -1,0 +1,9 @@
+[09-Jun-2020 14:30:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/login.inc.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/login.inc.php on line 29
+[09-Jun-2020 21:09:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/login.inc.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/login.inc.php on line 29
+[10-Jun-2020 20:34:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 37

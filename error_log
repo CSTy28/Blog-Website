@@ -1,0 +1,190 @@
+[07-Jun-2020 19:37:09 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:13:32 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:21:01 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:38:46 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:42:16 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:42:40 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 20:53:36 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:00:47 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:03:59 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:04:22 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:17:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:36:30 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:37:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:37:59 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:39:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:39:47 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:39:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:40:36 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host ' ns6145.hostgator.com' (0) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:41:24 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:43:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'192.232.216.164' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[07-Jun-2020 21:47:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 6
+[07-Jun-2020 21:47:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 6
+[07-Jun-2020 21:47:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php:38
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php(14): selectAll('topics')
+#1 /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php(3): require('/home2/uptothet...')
+#2 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 38
+[07-Jun-2020 21:50:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php:38
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php(14): selectAll('topics')
+#1 /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php(3): require('/home2/uptothet...')
+#2 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 38
+[09-Jun-2020 00:40:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php:38
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php(14): selectAll('topics')
+#1 /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php(3): require('/home2/uptothet...')
+#2 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 38
+[09-Jun-2020 02:50:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php:38
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php(14): selectAll('topics')
+#1 /home2/uptothetable/public_html/uptothetable.blog/test.php(2): require('/home2/uptothet...')
+#2 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 38
+[09-Jun-2020 02:51:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 7
+[09-Jun-2020 02:51:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php:38
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php(10): selectAll('topics')
+#1 /home2/uptothetable/public_html/uptothetable.blog/editPost.php(2): require('/home2/uptothet...')
+#2 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 38
+[09-Jun-2020 02:53:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 7
+[09-Jun-2020 02:53:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function selectAll() in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php:10
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/editPost.php(2): require()
+#1 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 10
+[09-Jun-2020 02:54:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function selectAll() in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php:14
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/test.php(2): require()
+#1 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 14
+[09-Jun-2020 02:58:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function selectAll() in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php:14
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/test.php(2): require()
+#1 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 14
+[09-Jun-2020 02:58:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php:21
+Stack trace:
+#0 /home2/uptothetable/public_html/uptothetable.blog/test.php(4): getAllTopics()
+#1 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 21
+[09-Jun-2020 03:17:39 America/Chicago] PHP Warning:  require(includes/topics.inc.php): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/test.php on line 2
+[09-Jun-2020 03:17:40 America/Chicago] PHP Warning:  require(includes/topics.inc.php): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/test.php on line 2
+[09-Jun-2020 03:17:40 America/Chicago] PHP Fatal error:  require(): Failed opening required 'includes/topics.inc.php' (include_path='.:/opt/php71/lib/php') in /home2/uptothetable/public_html/uptothetable.blog/test.php on line 2
+[09-Jun-2020 03:18:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/uptothetable/public_html/uptothetable.blog/test.php on line 4
+[09-Jun-2020 14:16:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:16:39 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:17:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:17:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:19:43 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uptothet_CSTyy28'@'50.87.144.92' to database 'blog' in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:20:03 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'uptothet_CSTyy28'@'localhost' to database 'blog' in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:20:50 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:20:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:21:51 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host ' ns6145.hostgator.com' (0) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:22:54 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:23:17 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:23:42 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'gator3073.hostgator.com' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:26:37 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/uptothetable/public_html/uptothetable.blog/includes/dbh.inc.php on line 9
+[09-Jun-2020 14:27:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getPublishedPosts() in /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php on line 16
+[09-Jun-2020 14:29:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php on line 123
+[09-Jun-2020 14:34:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/uptothetable/public_html/uptothetable.blog/TatyBlog.php on line 123
+[10-Jun-2020 15:40:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:03:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php:8) in /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php on line 9
+[10-Jun-2020 20:03:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php:8) in /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php on line 9
+[10-Jun-2020 20:06:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php:8) in /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php on line 9
+[10-Jun-2020 20:07:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 7
+[10-Jun-2020 20:07:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/posts.php on line 8
+[10-Jun-2020 20:10:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php:8) in /home2/uptothetable/public_html/uptothetable.blog/TatyDashboard.php on line 9
+[10-Jun-2020 20:21:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:22:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:24:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:25:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:26:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:27:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:30:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/signup.php on line 9
+[10-Jun-2020 20:31:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 7
+[10-Jun-2020 20:32:47 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:32:47 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpO2AmRj' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:33:05 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:33:05 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6iyhq2' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:33:43 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/TotFlower.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:33:43 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVjiGJQ' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/TotFlower.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:36:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/uptothetable.blog/includes/messages.inc.php:10) in /home2/uptothetable/public_html/uptothetable.blog/includes/topics.inc.php on line 84
+[10-Jun-2020 20:37:28 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:37:28 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQmeHfP' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:39:32 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:39:33 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj4vD04' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:42:55 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:42:55 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBLJnkp' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/uptothetable.blog/includes/posts.inc.php on line 44
+[10-Jun-2020 20:59:28 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[10-Jun-2020 20:59:28 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjKj5t3' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[10-Jun-2020 21:01:55 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[10-Jun-2020 21:01:55 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyrCKUB' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[11-Jun-2020 01:04:45 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/Edge.of.Venomverse.BLACK.GWEN_1024x1024@2x.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[11-Jun-2020 01:04:45 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWi0mSN' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/Edge.of.Venomverse.BLACK.GWEN_1024x1024@2x.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[11-Jun-2020 13:57:31 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[11-Jun-2020 13:57:31 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsECZod' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 44
+[11-Jun-2020 14:24:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/editPost.php:7) in /home2/uptothetable/public_html/editPost.php on line 8
+[11-Jun-2020 15:15:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/posts.php:7) in /home2/uptothetable/public_html/posts.php on line 8
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/editPost.php:8) in /home2/uptothetable/public_html/editPost.php on line 9
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:15:24 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:16:21 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:17:10 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:16 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:20:36 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 15:21:19 America/Chicago] PHP Warning:  Illegal string offset 'topic' in /home2/uptothetable/public_html/editPost.php on line 154
+[11-Jun-2020 18:24:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 7
+[11-Jun-2020 18:24:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 7
+[11-Jun-2020 18:24:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function selectOneTop() in /home2/uptothetable/public_html/editPost.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/uptothetable/public_html/editPost.php on line 15
+[11-Jun-2020 18:26:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 7
+[11-Jun-2020 18:26:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 7
+[11-Jun-2020 18:28:21 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/flower1.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 93
+[11-Jun-2020 18:28:21 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpx6okP4' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/flower1.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 93
+[11-Jun-2020 18:30:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 118
+[11-Jun-2020 18:52:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/editTopic.php:7) in /home2/uptothetable/public_html/editTopic.php on line 8
+[11-Jun-2020 18:53:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/editTopic.php:7) in /home2/uptothetable/public_html/editTopic.php on line 8
+[11-Jun-2020 18:53:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/uptothetable/public_html/editTopic.php:7) in /home2/uptothetable/public_html/editTopic.php on line 8
+[29-Jun-2020 15:49:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/uptothetable/public_html/includes/messages.inc.php:10) in /home2/uptothetable/public_html/includes/posts.inc.php on line 7
+[29-Jun-2020 15:58:49 America/Chicago] PHP Warning:  move_uploaded_file(/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg): failed to open stream: No such file or directory in /home2/uptothetable/public_html/includes/posts.inc.php on line 45
+[29-Jun-2020 15:58:49 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7JdFIC' to '/home2/uptothetable/public_html/TatyWebsitep/pictures/about-image.jpg' in /home2/uptothetable/public_html/includes/posts.inc.php on line 45
+[07-Sep-2020 02:21:47 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home2/uptothetable/public_html/includes/dbh.inc.php on line 9
